@@ -16,7 +16,8 @@
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true,
     "sourceMap": true,
-    "outDir": "build/dist"
+    "outDir": "build/dist",
+    "baseUrl": "."
   },
   "exclude": [
     "node_modules",
